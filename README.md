@@ -37,6 +37,8 @@ Ensure index.html, styles.css, and index.js are all in the same directory.
 Open index.html in any modern web browser.
 
 Start managing your guest list instantly!
+
+
 Author ;kenneth kipkosgei kibichii
 
 License
